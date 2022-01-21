@@ -1,0 +1,459 @@
+@media only screen and (min-width: 830px) and  (max-width:1000px) {
+    .profileimg{
+        width:30% !important;
+        height:150px  !important;
+        margin:0 auto !important;
+        border-radius:400px !important;
+    }
+    .profiledata{
+        display  : flex !important;
+       flex-direction  :column !important;
+       justify-content:center !important;
+       align-items:center !important;
+     }
+     
+.profilechild{
+    flex-direction:column !important;
+    text-align:center !important
+}
+.imgparent{
+    text-align:center !important;
+    width:100% !important
+}    
+}
+@media only screen and (min-width: 550px) and  (max-width: 830px) {
+   
+    .humburgeiconprt{
+        display:none
+    }
+
+
+
+
+
+    .contactchild{
+        width:90% !important
+    }
+
+.loginimg2,.loginimgheading{
+display:none !important;
+}
+
+
+
+
+
+
+
+
+
+.profilechild{
+    flex-direction:column !important;
+    text-align:center !important
+}
+.imgparent{
+    text-align:center !important;
+    width:100% !important
+}
+.profileimg{
+    width:20% !important;
+    height:100px  !important;
+    margin:0 auto !important;
+    border-radius:400px !important;
+}
+.profiledata{
+   display  : flex !important;
+  flex-direction  :column !important;
+  justify-content:center !important;
+  align-items:center !important;
+}
+.proul{
+    width:100% !important;
+    text-align: center !important;
+   
+}
+.proheading{
+    margin:0 auto !important;
+    width:55% !important ;
+    
+}
+.proheading2{
+    /* : !important ;*/
+    font-size : 23px !important;
+}
+
+    .loginimg{
+        display:none !important;
+    }
+    .loginchild2{
+        justify-content:center!important;
+        width:100% !important;
+    }
+    /* .loginchild{
+        width:100%
+    } */
+    .ptloginimg{
+        width:0% !important;
+    }
+}
+@media only screen and (min-width: 300px) and  (max-width: 550px) {
+.logo2{   
+    width: 47px !important;
+    height: 48px !important;
+    margin: 0px !important;
+    position: absolute !important;
+    top: 0px !important;
+    left: 5px !important;
+    object-fit: contain !important;}
+    .navbar1{
+        
+        margin-top: 2px !important;
+    }
+    .navbar2{
+        margin-top: 2px !important;
+        display: flex;
+        /* justify-content: space-between; */
+        flex-direction:column;
+        color: white;
+    } 
+    .span2{
+        /* display: flex; */
+        flex-direction:column;
+        display: flex;
+        margin :0px;
+        justify-content: center;
+        align-items: center;
+    }
+    .span{
+        display:none !important;
+    }
+ 
+    .span2 p{
+        text-align: center ;
+        margin: 0px 15px 0px 0px;
+        font-size:23px;
+        color: black;
+        width:32px
+        
+    }
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .span{
+        display:none !important;
+    }
+    
+    .span2 p{
+        margin: 0px 15px 0px 0px;
+        font-size:23px;
+        color:black;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .imgcontact{
+        display:none !important ;
+    }
+    .contactchild{
+        width:95% !important
+    }
+    
+    .loginimg2,.loginimgheading{
+        display:none !important;
+    }
+    
+    .contactinput{
+        width:100% !important;
+    }
+    .contactchild2{
+        width:100% !important;
+        
+}
+
+
+.profilechild{
+    flex-direction:column !important;
+    text-align:center !important;
+    width:90% !important
+}
+.imgparent{
+    text-align:center !important;
+    width:100% !important
+    
+}
+.profileimg{
+    width:30% !important;
+    height:100px  !important;
+    margin:0 auto !important;
+    border-radius:400px !important;
+}
+.profiledata{
+    display  : flex !important;
+    flex-direction  :column !important;
+    justify-content:center !important;
+    align-items:center !important;
+}
+    .proul{
+        width:100% !important;
+    }
+    .proheading{
+        margin:0 auto !important;
+        width:77% !important ;
+        
+    }
+    .proheading2{
+        /* : !important ;*/
+        font-size : 23px !important;
+    }  
+    .proheading3{
+        font-size : 14px !important;
+        
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    .loginchild{
+        width:90% !important;
+    }
+    .loginimg{
+        display:none !important;
+    }
+    .loginchild2{
+        justify-content:center!important;
+        width:100% !important;
+    }
+    .ptloginimg{
+        width:0% !important;
+    }
+    .contactheading{
+        font-size:16px !important;
+    }
+    /* .todo-li{
+        display: block !important;
+    } */
+    .pmt{
+        width:40% !important;
+        font-size:12px !important;
+    }
+    
+    .li-todo-btn{
+        width: 40px !important;
+        font-size:10px !important;
+    }
+    
+    
+    .Todo-child{
+        width: 100% !important;
+    }
+    .sign{
+        font-size: 16px !important;
+        
+    }
+}
+
+@media only screen and (min-width: 0px) and  (max-width: 300px) {
+    
+    .navbar1{
+        margin-top: 2px !important;}
+        .navbar2{
+            display: flex;
+        margin-top: 2px !important;
+        /* justify-content: space-between; */
+        flex-direction:column;
+        color: white;
+    } 
+    .span2{
+        /* display: flex; */
+        flex-direction:column;
+        display: flex;
+        margin :0px;
+        justify-content: center;
+        align-items: center;
+    }
+    .span{
+        display:none !important;
+    }
+    
+    .span2 p{
+        text-align: center ;
+        margin: 0px 15px 0px 0px;
+        font-size:23px;
+        color: black;
+        width:32px
+        
+    }
+    
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+    
+    .imgcontact{
+        display:none !important ;
+    }
+    .contactchild{
+        width:95% !important
+    }
+    
+    .loginimg2,.loginimgheading{
+        display:none !important;
+    }
+    
+    .contactinput{
+        width:100% !important;
+    }
+    .contactchild2{
+        width:100% !important;
+        
+    }
+    
+    
+    
+    
+    
+    
+    
+    .profilechild{
+        flex-direction:column !important;
+        text-align:center !important;
+        width:90% !important
+    }
+    .imgparent{
+        text-align:center !important;
+        width:100% !important
+        
+    }
+    .profileimg{
+        width:30% !important;
+        height:100px  !important;
+        margin:0 auto !important;
+        border-radius:400px !important;
+    }
+    .profiledata{
+        display  : flex !important;
+        flex-direction  :column !important;
+        justify-content:center !important;
+        align-items:center !important;
+    }
+    .proul{
+        width:100% !important;
+    }
+    .proheading{
+        margin:0 auto !important;
+        width:100% !important ;
+        
+    }
+    .proheading2{
+        /* : !important ;*/
+        font-size : 23px !important;
+    }  
+    .proheading3{
+        font-size : 14px !important;
+        
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .Todo-child{
+        width: 100% !important;
+    }
+    .pmt{
+        font-size:10px!important;
+    }
+    .loginchild{
+        padding:0px !important;
+    }
+    .loginchild2{
+        margin: 0px 0px !important ;
+    }
+    .todo-li{
+        display: block !important;
+    }
+    .logo{
+        font-size: 22px !important;
+    }
+    .sign{
+        font-size: 14px !important;
+        
+    }
+    
+    .li-todo-btn{
+        width: 50px !important;
+        font-size:8px !important;
+    }
+    .contactheading{
+        font-size:12px !important;
+    }
+    .loginimg{
+        display:none !important;
+    }
+    .loginchild{
+        width:90% !important;
+    }
+    
+    .loginchild2{
+        justify-content:center!important;
+        width:100% !important;
+    }
+    .ptloginimg{
+        width:0% !important;
+    }
+    .contactheading{
+        font-size:16px !important;
+    }
+    .logo2{   
+        width: 47px !important;
+        height: 48px !important;
+        margin: 0px !important;
+        position: absolute !important;
+        top: 0px !important;
+        left: 5px !important;
+        object-fit: contain !important;}
+    
+}
+@media only screen and (min-width: 830px) and  (max-width: 3000px) {
+    .humburgeiconprt{
+        display:none
+    }
+}

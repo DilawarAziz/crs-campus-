@@ -1,0 +1,157 @@
+@media only screen and (min-width: 830px) and  (max-width: 3000px) {
+    .humburgeiconprt{
+        display:none
+    }
+}
+
+
+@media only screen and (min-width: 730px) and  (max-width:1000px) {
+    .humburgeiconprt{
+        display:none
+    }
+}
+
+@media only screen and (min-width: 300px) and (max-width: 500px) {
+    .profilechild{
+        width: 100%;
+        border-radius: 0px;
+    }
+    .svg{
+        border-radius: 0px;
+    }
+    .companysmain {
+        margin: 25px 0px 0px 0px !important;
+        border: none;
+        border-radius: 0px;
+    }
+    .companydetailbtn {
+        height: 30px;
+    padding: 2px;
+    border: 1px solid lime;
+    }
+.profileimg {
+ height: 110px;   
+}
+.loginchild2 {
+padding: 10px;
+}
+.editchild{
+    height: 550px;
+}
+.login{
+    background-color: white;
+}
+}
+
+@media only screen and (min-width: 0px) and (max-width: 300px) {
+    .svg{
+        border-radius: 0px;
+    }   
+    .profileimg {
+        height: 85px;   
+       }
+       .profilechild{
+        width: 100%;
+        border-radius: 0px;
+    }
+    
+    .companysmain {
+        margin: 25px 0px 0px 0px !important;
+        border: none;
+        border-radius: 0px;
+    }
+    .companydetailbtn {
+        height: 30px;
+    padding: 2px;
+    border: 1px solid lime;
+    }
+
+.loginchild2 {
+padding: 10px;
+}
+.editchild{
+    height: 550px;
+}
+.login{
+    background-color: white;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 0px) and  (max-width: 730px) {
+   .navbar1 {
+    margin-top: 2px !important;
+  }
+  .back{
+      
+      background-color: #0d6efd;
+  }
+  .navbar2 {
+    /* margin-top: 2px !important; */
+    display: flex;
+    /* justify-content: space-between; */
+    flex-direction: column;
+    background-color: #0d6efd;
+    color: white;
+  }
+  .span2 {
+    /* display: flex; */
+    flex-direction: column;
+    display: flex;
+    margin: 0px;
+    justify-content: center;
+    align-items: center;
+  }
+  .span {
+    display: none !important;
+  }
+
+  .span2 p {
+    text-align: center;
+    margin: 0px 15px 0px 0px;
+    font-size: 23px;
+    color: white;
+    width: 32px;
+  }
+
+  .span {
+    display: none !important;
+  }
+
+
+  .span2 p:hover {
+   
+    color: black;
+    text-decoration: underline;
+  }
+   
+    
+}
+@media only screen and (min-width: 0px) and  (max-width: 300px) {
+    
+       
+}
